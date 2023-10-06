@@ -56,4 +56,10 @@ SUPPORTED_FANS = {
         preset_modes=[FAN_MODE_NORMAL, FAN_MODE_NATURAL, FAN_MODE_SLEEP, FAN_MODE_AUTO, FAN_MODE_TURBO],
         speed_range=(1, 9)
     ),
+    "DR-DR-HAP002S": DreoFanDetails(
+        preset_modes=[FAN_MODE_NORMAL, FAN_MODE_NATURAL, FAN_MODE_SLEEP, FAN_MODE_AUTO, FAN_MODE_TURBO],
+        speed_range=(1, 9)
+    ),
+
+    
 }
